@@ -1,16 +1,3 @@
 # bloc_calculator
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Inspired from [This dribbble design](https://dribbble.com/shots/9807422-Braun-Neu-Calculator?utm_source=Clipboard_Shot&utm_campaign=arielone&utm_content=Braun%20Neu%20Calculator%20%F0%9F%8E%9A&utm_medium=Social_Share)
